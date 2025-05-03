@@ -1,0 +1,3 @@
+//# sourceMappingURL=ro.js.map
+jQuery(function(a){a.datepicker.regional.ro={closeText:"\u00cenchide",prevText:"&#x3c;Precedent",nextText:"Urm\u0103torul&#x3e;",currentText:"Ast\u0103zi",monthNames:"Ianuarie Februarie Martie Aprilie Mai Iunie Iulie August Septembrie Octombrie Noiembrie Decembrie".split(" "),monthNamesShort:"Ian Feb Mar Apr Mai Iun Iul Aug Sep Oct Noi Dec".split(" "),dayNames:"Duminc\u0103 Luni Mar\u021bi Miercuri Joi Vineri S\u00e2mb\u0103ta".split(" "),dayNamesShort:"Du Lu Ma Mi Jo Vi S\u00e2".split(" "),dayNamesMin:"D L Ma Mi J V S".split(" "),
+weekHeader:"S\u0103pt\u0103m\u00e2na",dateFormat:"yy-mm-dd",firstDay:1,isRTL:!1,showMonthAfterYear:!1,yearSuffix:"",timeText:"Selecteaz\u0103 ora"};a.datepicker.setDefaults(a.datepicker.regional.ro)});

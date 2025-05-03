@@ -1,0 +1,2 @@
+//# sourceMappingURL=ro.js.map
+(function(a){a.timepicker.regional.ro={currentText:"Acum",closeText:"\u00cenchide",amNames:["AM","A"],pmNames:["PM","P"],timeFormat:"HH:mm",timeSuffix:"",timeOnlyTitle:"Alege ora",timeText:"Ora",hourText:"Ora",minuteText:"Minut\u0103",secondText:"Secund\u0103",millisecText:"Milisecund\u0103",microsecText:"Microsecund\u0103",timezoneText:"Fus orar",isRTL:!1};a.timepicker.setDefaults(a.timepicker.regional.ro)})(jQuery);
