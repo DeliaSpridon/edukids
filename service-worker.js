@@ -24,7 +24,7 @@ self.addEventListener('install', event => {
     self.skipWaiting();
     event.waitUntil(
         caches.open('v1').then(cache => {
-            return cache.addAll(['/edukids/manifest.json']);
+            return cache.addAll(['/manifest.json']);
         }, error => {
             console.log(`Installation failed with error: ${error}`);
         }),
