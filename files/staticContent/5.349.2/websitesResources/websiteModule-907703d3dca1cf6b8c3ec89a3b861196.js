@@ -27587,7 +27587,7 @@ $jscomp.initSymbolIterator = function () {
                     }, {
                         key: "_getBackgroundImageUrl",
                         value: function () {
-                            return this.objectStyle.background.backgroundImage.slice(5, -2).replace(/"/g,
+                            return this.objectStyle.background.backgroundImage.slice(5, -2).replace(/"./g,
                                 "")
                         }
                     }
@@ -33014,7 +33014,7 @@ $jscomp.initSymbolIterator = function () {
                                 value: function () {
                                     var a = this,
                                     b = $("#ww_language_locale").val(),
-                                    b = "//connect.facebook.net/" + (void 0 !== b ? b : d.DEFAULT_LANGUAGE_LOCALE) + "/sdk.js#xfbml=1&version=" +
+                                    b = "//connect.facebook.net/" + (void 0 !== b ? b : d.DEFAULT_LANGUAGE_LOCALE) + "./sdk.js#xfbml=1&version=" +
                                         p.a.FACEBOOK_GRAPH_VERSION;
                                     $.ajaxSetup({
                                         cache: !0
@@ -35890,13 +35890,13 @@ $jscomp.initSymbolIterator = function () {
                                 var a;
                                 switch (this.getPanelType()) {
                                 case c.a.CMS:
-                                    a = "/cms/";
+                                    a = "./cms/";
                                     break;
                                 case c.a.WM:
                                     a = "/WM/";
                                     break;
                                 case c.a.GUI:
-                                    a = "/gui/"
+                                    a = "./gui/"
                                 }
                                 return a
                             }
@@ -42700,7 +42700,7 @@ $jscomp.initSymbolIterator = function () {
                         }, {
                             key: "openEditor",
                             value: function (a, b) {
-                                com.webwave.utils.location.locationService.openUrl(this._environmentUtils.getPathForAjax() + "/gui/gui/" + a, b)
+                                com.webwave.utils.location.locationService.openUrl(this._environmentUtils.getPathForAjax() + "./gui/gui/" + a, b)
                             }
                         }, {
                             key: "openWebsite",
