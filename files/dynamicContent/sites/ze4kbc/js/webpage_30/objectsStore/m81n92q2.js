@@ -1136,11 +1136,11 @@ window.WW_OBJECTS_STORE = {
                 "size": {
                     "width": {
                         "unit": "px",
-                        "value": 818
+                        "value": 600
                     },
                     "height": {
                         "unit": "px",
-                        "value": 371
+                        "value": 680
                     }
                 },
                 "visibility": true,
@@ -1157,11 +1157,11 @@ window.WW_OBJECTS_STORE = {
                 "position": {
                     "x": {
                         "unit": "px",
-                        "value": 173
+                        "value": 600
                     },
                     "y": {
                         "unit": "px",
-                        "value": 994
+                        "value": 1120
                     }
                 },
                 "additionalProperties": {
@@ -1549,11 +1549,11 @@ window.WW_OBJECTS_STORE = {
                 "size": {
                     "width": {
                         "unit": "px",
-                        "value": 352
+                        "value": 600
                     },
                     "height": {
                         "unit": "px",
-                        "value": 356
+                        "value": 680
                     }
                 },
                 "visibility": true,
@@ -1570,11 +1570,11 @@ window.WW_OBJECTS_STORE = {
                 "position": {
                     "x": {
                         "unit": "px",
-                        "value": 514
+                        "value": 35
                     },
                     "y": {
                         "unit": "px",
-                        "value": 628
+                        "value": 1120
                     }
                 },
                 "additionalProperties": {
@@ -1962,11 +1962,11 @@ window.WW_OBJECTS_STORE = {
                 "size": {
                     "width": {
                         "unit": "px",
-                        "value": 682
+                        "value": 600
                     },
                     "height": {
                         "unit": "px",
-                        "value": 371
+                        "value": 680
                     }
                 },
                 "visibility": true,
@@ -1983,11 +1983,11 @@ window.WW_OBJECTS_STORE = {
                 "position": {
                     "x": {
                         "unit": "px",
-                        "value": 514
+                        "value": 600
                     },
                     "y": {
                         "unit": "px",
-                        "value": 247
+                        "value": 420
                     }
                 },
                 "additionalProperties": {
@@ -2375,11 +2375,11 @@ window.WW_OBJECTS_STORE = {
                 "size": {
                     "width": {
                         "unit": "px",
-                        "value": 499
+                        "value": 600
                     },
                     "height": {
                         "unit": "px",
-                        "value": 551
+                        "value": 680
                     }
                 },
                 "visibility": true,
@@ -2396,11 +2396,11 @@ window.WW_OBJECTS_STORE = {
                 "position": {
                     "x": {
                         "unit": "px",
-                        "value": 5
+                        "value": 35
                     },
                     "y": {
                         "unit": "px",
-                        "value": 433
+                        "value": 420
                     }
                 },
                 "additionalProperties": {
