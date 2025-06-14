@@ -290,11 +290,11 @@ window.WW_OBJECTS_STORE = {
                 "size": {
                     "width": {
                         "unit": "px",
-                        "value": 352
+                        "value": 552
                     },
                     "height": {
                         "unit": "px",
-                        "value": 372
+                        "value": 572
                     }
                 },
                 "visibility": true,
@@ -311,7 +311,7 @@ window.WW_OBJECTS_STORE = {
                 "position": {
                     "x": {
                         "unit": "px",
-                        "value": 848
+                        "value": 608
                     },
                     "y": {
                         "unit": "px",
@@ -11813,9 +11813,9 @@ window.WW_OBJECTS_STORE = {
                 "rotationEnabled": false,
                 "style": {
                     "padding": {
-                        "top": 132,
+                        "top": 32,
                         "left": 0,
-                        "bottom": 162,
+                        "bottom": 32,
                         "right": 0,
                         "enabled": true
                     }

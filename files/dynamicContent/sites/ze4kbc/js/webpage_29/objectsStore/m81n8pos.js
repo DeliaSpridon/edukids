@@ -6,12 +6,12 @@ window.WW_OBJECTS_STORE = {
                 "fullWidth": false,
                 "size": {
                     "width": {
-                        "unit": "px",
-                        "value": 622
+                        "unit": "",
+                        "value": 350
                     },
                     "height": {
                         "unit": "px",
-                        "value": 150
+                        "value": 350
                     }
                 },
                 "visibility": true,
@@ -43,7 +43,7 @@ window.WW_OBJECTS_STORE = {
                         "typeOfRelation": "vertical",
                         "distance": {
                             "unit": "px",
-                            "value": 40
+                            "value": 20
                         },
                         "pullBack": true,
                         "relatedWNodes": ["element_500", "element_497"]
@@ -53,11 +53,11 @@ window.WW_OBJECTS_STORE = {
                 "size": {
                     "width": {
                         "unit": "px",
-                        "value": 768
+                        "value": 350
                     },
                     "height": {
                         "unit": "px",
-                        "value": 150
+                        "value": 350
                     }
                 },
                 "visibility": true,
@@ -89,7 +89,7 @@ window.WW_OBJECTS_STORE = {
                         "typeOfRelation": "vertical",
                         "distance": {
                             "unit": "px",
-                            "value": 40
+                            "value": 20
                         },
                         "pullBack": true,
                         "relatedWNodes": ["element_500", "element_497"]
@@ -99,11 +99,11 @@ window.WW_OBJECTS_STORE = {
                 "size": {
                     "width": {
                         "unit": "px",
-                        "value": 480
+                        "value": 350
                     },
                     "height": {
                         "unit": "px",
-                        "value": 150
+                        "value": 350
                     }
                 },
                 "visibility": true,
@@ -135,7 +135,7 @@ window.WW_OBJECTS_STORE = {
                         "typeOfRelation": "vertical",
                         "distance": {
                             "unit": "px",
-                            "value": 40
+                            "value": 20
                         },
                         "pullBack": true,
                         "relatedWNodes": ["element_500", "element_497"]
@@ -145,11 +145,11 @@ window.WW_OBJECTS_STORE = {
                 "size": {
                     "width": {
                         "unit": "px",
-                        "value": 320
+                        "value": 350
                     },
                     "height": {
                         "unit": "px",
-                        "value": 150
+                        "value": 350
                     }
                 },
                 "visibility": true,
@@ -269,7 +269,7 @@ window.WW_OBJECTS_STORE = {
             "horizontalAlign": null,
             "opacity": 100
         },
-        "autoWidth": false
+        "autoWidth": true
     },
     "element_453": {
         "rwdProperties": {

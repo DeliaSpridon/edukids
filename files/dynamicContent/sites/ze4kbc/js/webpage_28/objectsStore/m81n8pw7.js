@@ -1891,7 +1891,7 @@
                             "size": {
                                 "width": {
                                     "unit": "px",
-                                    "value": 234
+                                    "value": 324
                                 },
                                 "height": {
                                     "unit": "px",
@@ -4656,11 +4656,11 @@
                             "size": {
                                 "width": {
                                     "unit": "px",
-                                    "value": 295
+                                    "value": 395
                                 },
                                 "height": {
                                     "unit": "px",
-                                    "value": 392
+                                    "value": 292
                                 }
                             },
                             "visibility": true,
@@ -4801,7 +4801,7 @@
                                 },
                                 "height": {
                                     "unit": "px",
-                                    "value": 425
+                                    "value": 225
                                 }
                             },
                             "visibility": true,
