@@ -290,11 +290,11 @@ window.WW_OBJECTS_STORE = {
                 "size": {
                     "width": {
                         "unit": "px",
-                        "value": 552
+                        "value": 602
                     },
                     "height": {
                         "unit": "px",
-                        "value": 572
+                        "value": 622
                     }
                 },
                 "visibility": true,
@@ -707,7 +707,7 @@ window.WW_OBJECTS_STORE = {
 					},
                     "height": {
                         "unit": "px",
-                        "value": 561
+                        "value": 411
                     }
                 },
                 "visibility": true,
@@ -724,11 +724,11 @@ window.WW_OBJECTS_STORE = {
                 "position": {
                     "x": {
                         "unit": "px",
-                        "value": 518
+                        "value": 568
                     },
                     "y": {
                         "unit": "px",
-                        "value": 584
+                        "value": 684
                     }
                 },
                 "additionalProperties": {
@@ -1462,7 +1462,7 @@ window.WW_OBJECTS_STORE = {
                     },
                     "y": {
                         "unit": "px",
-                        "value": 148
+                        "value": 48
                     }
                 },
                 "positionOrigin": "pageTopLeft"
@@ -8955,7 +8955,7 @@ window.WW_OBJECTS_STORE = {
                     },
                     "y": {
                         "unit": "px",
-                        "value": 83
+                        "value": 253
                     }
                 },
                 "additionalProperties": {
@@ -13900,11 +13900,11 @@ window.WW_OBJECTS_STORE = {
                 "size": {
                     "width": {
                         "unit": "px",
-                        "value": 198
+                        "value": 258
                     },
                     "height": {
                         "unit": "px",
-                        "value": 233
+                        "value": 283
                     }
                 },
                 "visibility": true,
@@ -13921,11 +13921,11 @@ window.WW_OBJECTS_STORE = {
                 "position": {
                     "x": {
                         "unit": "px",
-                        "value": 692
+                        "value": 622
                     },
                     "y": {
                         "unit": "px",
-                        "value": 0
+                        "value": -50
                     }
                 },
                 "additionalProperties": {
@@ -13951,7 +13951,7 @@ window.WW_OBJECTS_STORE = {
                 "size": {
                     "width": {
                         "unit": "px",
-                        "value": 198
+                        "value": 258
                     },
                     "height": {
                         "unit": "px",
