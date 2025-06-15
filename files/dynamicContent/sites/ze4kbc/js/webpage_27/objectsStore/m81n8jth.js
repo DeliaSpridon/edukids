@@ -8509,7 +8509,7 @@ window.WW_OBJECTS_STORE = {
         },
         "autoWidth": false
     },
-    "element_474": {
+   "element_473": {
         "rwdProperties": {
             "rwdMode_1": {
                 "binds": {},
@@ -8517,11 +8517,11 @@ window.WW_OBJECTS_STORE = {
                 "size": {
                     "width": {
                         "unit": "px",
-                        "value": 420
+                        "value": 455
                     },
                     "height": {
                         "unit": "px",
-                        "value": 463
+                        "value": 696
                     }
                 },
                 "visibility": true,
@@ -8538,424 +8538,11 @@ window.WW_OBJECTS_STORE = {
                 "position": {
                     "x": {
                         "unit": "px",
-                        "value": 247
+                        "value": 50
                     },
                     "y": {
                         "unit": "px",
-                        "value": 0
-                    }
-                },
-                "additionalProperties": {
-                    "imageParallax": 80,
-                    "isEnabledImageParallax": false
-                },
-                "positionOrigin": "pageTopLeft"
-            },
-            "rwdMode_2": {
-                "binds": {},
-                "fullWidth": false,
-                "size": {
-                    "width": {
-                        "unit": "px",
-                        "value": 340
-                    },
-                    "height": {
-                        "unit": "px",
-                        "value": 373
-                    }
-                },
-                "visibility": true,
-                "rotationEnabled": false,
-                "style": {
-                    "padding": {
-                        "top": 0,
-                        "left": 0,
-                        "bottom": 0,
-                        "right": 0,
-                        "enabled": false
-                    }
-                },
-                "position": {
-                    "x": {
-                        "unit": "px",
-                        "value": 354
-                    },
-                    "y": {
-                        "unit": "px",
-                        "value": 248
-                    }
-                },
-                "additionalProperties": {
-                    "imageParallax": 80,
-                    "isEnabledImageParallax": false
-                },
-                "positionOrigin": "pageTopLeft"
-            },
-            "rwdMode_3": {
-                "binds": {},
-                "fullWidth": false,
-                "size": {
-                    "width": {
-                        "unit": "px",
-                        "value": 261
-                    },
-                    "height": {
-                        "unit": "px",
-                        "value": 287
-                    }
-                },
-                "visibility": true,
-                "rotationEnabled": false,
-                "style": {
-                    "padding": {
-                        "top": 0,
-                        "left": 0,
-                        "bottom": 0,
-                        "right": 0,
-                        "enabled": false
-                    }
-                },
-                "position": {
-                    "x": {
-                        "unit": "px",
-                        "value": 219
-                    },
-                    "y": {
-                        "unit": "px",
-                        "value": 486
-                    }
-                },
-                "additionalProperties": {
-                    "imageParallax": 80,
-                    "isEnabledImageParallax": false
-                },
-                "positionOrigin": "pageTopLeft"
-            },
-            "rwdMode_4": {
-                "binds": {},
-                "fullWidth": false,
-                "size": {
-                    "width": {
-                        "unit": "px",
-                        "value": 224
-                    },
-                    "height": {
-                        "unit": "px",
-                        "value": 246
-                    }
-                },
-                "visibility": true,
-                "rotationEnabled": false,
-                "style": {
-                    "padding": {
-                        "top": 0,
-                        "left": 0,
-                        "bottom": 0,
-                        "right": 0,
-                        "enabled": false
-                    }
-                },
-                "position": {
-                    "x": {
-                        "unit": "px",
-                        "value": 96
-                    },
-                    "y": {
-                        "unit": "px",
-                        "value": 541
-                    }
-                },
-                "additionalProperties": {
-                    "imageParallax": 80,
-                    "isEnabledImageParallax": false
-                },
-                "positionOrigin": "pageTopLeft"
-            }
-        },
-        "binds": null,
-        "hoverAnimator": {
-            "animationData": {
-                "duration": 400,
-                "type": "advancedFadeAnimation",
-                "easing": "swing",
-                "enabled": false,
-                "direction": "left"
-            }
-        },
-        "statesStyles": {
-            "normal": {
-                "opacityEnabled": false,
-                "border": {
-                    "top": {
-                        "width": 0,
-                        "style": "solid",
-                        "color": "rgb(36, 33, 36)"
-                    },
-                    "left": {
-                        "width": 0,
-                        "style": "solid",
-                        "color": "rgb(36, 33, 36)"
-                    },
-                    "bottom": {
-                        "width": 0,
-                        "style": "solid",
-                        "color": "rgb(36, 33, 36)"
-                    },
-                    "roundingEnabled": false,
-                    "right": {
-                        "width": 0,
-                        "style": "solid",
-                        "color": "rgb(36, 33, 36)"
-                    },
-                    "radius": 0,
-                    "enabled": false
-                },
-                "filter": {
-                    "sepia": 0,
-                    "brightness": 1,
-                    "saturate": 1,
-                    "invert": 0,
-                    "contrast": 1,
-                    "hueRotate": 0,
-                    "blur": 4.8,
-                    "greyscale": 0,
-                    "enabled": false
-                },
-                "verticalAlign": null,
-                "backgroundOverlay": {
-                    "background": {
-                        "backgroundAttachment": "scroll",
-                        "verticalPosition": "top",
-                        "backgroundColor": "rgba(200, 99, 99, 0.5)",
-                        "repeatX": true,
-                        "parallax": 100,
-                        "backgroundImage": "none",
-                        "repeatY": true,
-                        "backgroundSize": "cover",
-                        "horizontalPosition": "left",
-                        "backgroundImageEnabled": false,
-                        "backgroundType": "color",
-                        "enabled": true
-                    },
-                    "mixBlendMode": "normal",
-                    "enabled": false
-                },
-                "shadow": {
-                    "x": 3,
-                    "y": 3,
-                    "blur": 10,
-                    "color": "rgba(156,156,156,1)",
-                    "enabled": false
-                },
-                "background": {
-                    "backgroundAttachment": "scroll",
-                    "verticalPosition": "top",
-                    "backgroundColor": "rgb(239, 239, 239)",
-                    "repeatX": true,
-                    "parallax": 100,
-                    "backgroundImage": "none",
-                    "repeatY": true,
-                    "backgroundSize": "cover",
-                    "horizontalPosition": "left",
-                    "backgroundImageEnabled": false,
-                    "backgroundType": "color",
-                    "enabled": true
-                },
-                "horizontalAlign": null,
-                "opacity": 100
-            },
-            "hover": {
-                "opacityEnabled": false,
-                "border": {
-                    "top": {
-                        "width": 0,
-                        "style": "solid",
-                        "color": "rgb(36, 33, 36)"
-                    },
-                    "left": {
-                        "width": 0,
-                        "style": "solid",
-                        "color": "rgb(36, 33, 36)"
-                    },
-                    "bottom": {
-                        "width": 0,
-                        "style": "solid",
-                        "color": "rgb(36, 33, 36)"
-                    },
-                    "roundingEnabled": false,
-                    "right": {
-                        "width": 0,
-                        "style": "solid",
-                        "color": "rgb(36, 33, 36)"
-                    },
-                    "radius": 0,
-                    "enabled": false
-                },
-                "verticalAlign": null,
-                "backgroundOverlay": {
-                    "background": {
-                        "backgroundAttachment": "scroll",
-                        "verticalPosition": "top",
-                        "backgroundColor": "rgba(200, 99, 99, 0.5)",
-                        "repeatX": true,
-                        "parallax": 100,
-                        "backgroundImage": "none",
-                        "repeatY": true,
-                        "backgroundSize": "cover",
-                        "horizontalPosition": "left",
-                        "backgroundImageEnabled": false,
-                        "backgroundType": "color",
-                        "enabled": true
-                    },
-                    "mixBlendMode": "normal",
-                    "enabled": false
-                },
-                "shadow": {
-                    "x": 3,
-                    "y": 3,
-                    "blur": 10,
-                    "color": "rgba(156,156,156,1)",
-                    "enabled": false
-                },
-                "background": {
-                    "backgroundAttachment": "scroll",
-                    "verticalPosition": "top",
-                    "backgroundColor": "rgb(239, 239, 239)",
-                    "repeatX": true,
-                    "parallax": 100,
-                    "backgroundImage": "none",
-                    "repeatY": true,
-                    "backgroundSize": "cover",
-                    "horizontalPosition": "left",
-                    "backgroundImageEnabled": false,
-                    "backgroundType": "color",
-                    "enabled": true
-                },
-                "horizontalAlign": null,
-                "opacity": 100
-            }
-        },
-        "autoHeight": false,
-        "linkData": {
-            "type": "com.webwaver.website.render.link.EmptyLinkData"
-        },
-        "objectStyle": {
-            "opacityEnabled": false,
-            "border": {
-                "top": {
-                    "width": 0,
-                    "style": "solid",
-                    "color": "rgb(36, 33, 36)"
-                },
-                "left": {
-                    "width": 0,
-                    "style": "solid",
-                    "color": "rgb(36, 33, 36)"
-                },
-                "bottom": {
-                    "width": 0,
-                    "style": "solid",
-                    "color": "rgb(36, 33, 36)"
-                },
-                "roundingEnabled": false,
-                "right": {
-                    "width": 0,
-                    "style": "solid",
-                    "color": "rgb(36, 33, 36)"
-                },
-                "radius": 0,
-                "enabled": false
-            },
-            "filter": {
-                "sepia": 0,
-                "brightness": 1,
-                "saturate": 1,
-                "invert": 0,
-                "contrast": 1,
-                "hueRotate": 0,
-                "blur": 4.8,
-                "greyscale": 0,
-                "enabled": false
-            },
-            "verticalAlign": null,
-            "backgroundOverlay": {
-                "background": {
-                    "backgroundAttachment": "scroll",
-                    "verticalPosition": "top",
-                    "backgroundColor": "rgba(200, 99, 99, 0.5)",
-                    "repeatX": true,
-                    "parallax": 100,
-                    "backgroundImage": "none",
-                    "repeatY": true,
-                    "backgroundSize": "cover",
-                    "horizontalPosition": "left",
-                    "backgroundImageEnabled": false,
-                    "backgroundType": "color",
-                    "enabled": true
-                },
-                "mixBlendMode": "normal",
-                "enabled": false
-            },
-            "shadow": {
-                "x": 3,
-                "y": 3,
-                "blur": 10,
-                "color": "rgba(156,156,156,1)",
-                "enabled": false
-            },
-            "background": {
-                "backgroundAttachment": "scroll",
-                "verticalPosition": "top",
-                "backgroundColor": "rgb(239, 239, 239)",
-                "repeatX": true,
-                "parallax": 100,
-                "backgroundImage": "none",
-                "repeatY": true,
-                "backgroundSize": "cover",
-                "horizontalPosition": "left",
-                "backgroundImageEnabled": false,
-                "backgroundType": "color",
-                "enabled": true
-            },
-            "horizontalAlign": null,
-            "opacity": 100
-        },
-        "autoWidth": false
-    },
-    "element_473": {
-        "rwdProperties": {
-            "rwdMode_1": {
-                "binds": {},
-                "fullWidth": false,
-                "size": {
-                    "width": {
-                        "unit": "px",
-                        "value": 395
-                    },
-                    "height": {
-                        "unit": "px",
-                        "value": 296
-                    }
-                },
-                "visibility": true,
-                "rotationEnabled": false,
-                "style": {
-                    "padding": {
-                        "top": 0,
-                        "left": 0,
-                        "bottom": 0,
-                        "right": 0,
-                        "enabled": false
-                    }
-                },
-                "position": {
-                    "x": {
-                        "unit": "px",
-                        "value": 0
-                    },
-                    "y": {
-                        "unit": "px",
-                        "value": 253
+                        "value": 50
                     }
                 },
                 "additionalProperties": {
@@ -8974,7 +8561,7 @@ window.WW_OBJECTS_STORE = {
                     },
                     "height": {
                         "unit": "px",
-                        "value": 239
+                        "value": 339
                     }
                 },
                 "visibility": true,
@@ -8991,7 +8578,7 @@ window.WW_OBJECTS_STORE = {
                 "position": {
                     "x": {
                         "unit": "px",
-                        "value": 75
+                        "value": 175
                     },
                     "y": {
                         "unit": "px",
@@ -9014,7 +8601,7 @@ window.WW_OBJECTS_STORE = {
                     },
                     "height": {
                         "unit": "px",
-                        "value": 184
+                        "value": 284
                     }
                 },
                 "visibility": true,
@@ -9054,7 +8641,7 @@ window.WW_OBJECTS_STORE = {
                     },
                     "height": {
                         "unit": "px",
-                        "value": 155
+                        "value": 255
                     }
                 },
                 "visibility": true,
@@ -12681,9 +12268,9 @@ window.WW_OBJECTS_STORE = {
                 "rotationEnabled": false,
                 "style": {
                     "padding": {
-                        "top": 162,
+                        "top": 32,
                         "left": 0,
-                        "bottom": 162,
+                        "bottom": 32,
                         "right": 0,
                         "enabled": true
                     }
@@ -13268,9 +12855,9 @@ window.WW_OBJECTS_STORE = {
                 "rotationEnabled": false,
                 "style": {
                     "padding": {
-                        "top": 132,
+                        "top": 32,
                         "left": 0,
-                        "bottom": 132,
+                        "bottom": 32,
                         "right": 0,
                         "enabled": true
                     }
@@ -13599,9 +13186,9 @@ window.WW_OBJECTS_STORE = {
                 "rotationEnabled": false,
                 "style": {
                     "padding": {
-                        "top": 162,
+                        "top": 32,
                         "left": 10,
-                        "bottom": 162,
+                        "bottom": 32,
                         "right": 10,
                         "enabled": true
                     }
@@ -13904,7 +13491,7 @@ window.WW_OBJECTS_STORE = {
                     },
                     "height": {
                         "unit": "px",
-                        "value": 283
+                        "value": 233
                     }
                 },
                 "visibility": true,
@@ -13925,7 +13512,7 @@ window.WW_OBJECTS_STORE = {
                     },
                     "y": {
                         "unit": "px",
-                        "value": -50
+                        "value": 0
                     }
                 },
                 "additionalProperties": {
@@ -13972,7 +13559,7 @@ window.WW_OBJECTS_STORE = {
                 "position": {
                     "x": {
                         "unit": "px",
-                        "value": 234
+                        "value": 164
                     },
                     "y": {
                         "unit": "px",
@@ -14053,11 +13640,11 @@ window.WW_OBJECTS_STORE = {
                 "size": {
                     "width": {
                         "unit": "px",
-                        "value": 146
+                        "value": 250
                     },
                     "height": {
                         "unit": "px",
-                        "value": 172
+                        "value": 232
                     }
                 },
                 "visibility": true,
@@ -14074,7 +13661,7 @@ window.WW_OBJECTS_STORE = {
                 "position": {
                     "x": {
                         "unit": "px",
-                        "value": 174
+                        "value": 17
                     },
                     "y": {
                         "unit": "px",

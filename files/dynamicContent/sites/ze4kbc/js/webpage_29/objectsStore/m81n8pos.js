@@ -3582,7 +3582,7 @@ window.WW_OBJECTS_STORE = {
                         "typeOfRelation": "vertical",
                         "distance": {
                             "unit": "px",
-                            "value": 24
+                            "value": 40
                         },
                         "pullBack": true,
                         "relatedWNodes": ["element_501", "element_500"]
@@ -3603,7 +3603,7 @@ window.WW_OBJECTS_STORE = {
                 "rotationEnabled": false,
                 "style": {
                     "padding": {
-                        "top": 5,
+                        "top": 25,
                         "left": 5,
                         "bottom": 5,
                         "right": 5,
@@ -3617,7 +3617,7 @@ window.WW_OBJECTS_STORE = {
                     },
                     "y": {
                         "unit": "px",
-                        "value": 390
+                        "value": 500
                     }
                 },
                 "positionOrigin": "pageTopLeft"
