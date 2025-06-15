@@ -703,11 +703,11 @@ window.WW_OBJECTS_STORE = {
                 "size": {
                     "width": {
                         "unit": "px",
-					"value": 580
+					"value": 680
 					},
                     "height": {
                         "unit": "px",
-                        "value": 411
+                        "value": 511
                     }
                 },
                 "visibility": true,
@@ -728,7 +728,7 @@ window.WW_OBJECTS_STORE = {
                     },
                     "y": {
                         "unit": "px",
-                        "value": 684
+                        "value": 584
                     }
                 },
                 "additionalProperties": {
