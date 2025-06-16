@@ -145,7 +145,7 @@ window.WW_OBJECTS_STORE = {
                 "size": {
                     "width": {
                         "unit": "px",
-                        "value": 350
+                        "value": 300
                     },
                     "height": {
                         "unit": "px",
@@ -170,7 +170,7 @@ window.WW_OBJECTS_STORE = {
                     },
                     "y": {
                         "unit": "px",
-                        "value": 746
+                        "value": 628
                     }
                 },
                 "positionOrigin": "pageTopLeft"

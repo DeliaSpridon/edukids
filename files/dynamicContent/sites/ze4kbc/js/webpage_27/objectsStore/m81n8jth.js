@@ -414,7 +414,7 @@ window.WW_OBJECTS_STORE = {
                     },
                     "height": {
                         "unit": "px",
-                        "value": 301
+                        "value": 201
                     }
                 },
                 "visibility": true,
@@ -3726,9 +3726,9 @@ window.WW_OBJECTS_STORE = {
                 "rotationEnabled": false,
                 "style": {
                     "padding": {
-                        "top": 104,
+                        "top": 32,
                         "left": 0,
-                        "bottom": 104,
+                        "bottom": 32,
                         "right": 0,
                         "enabled": false
                     }
@@ -3827,9 +3827,9 @@ window.WW_OBJECTS_STORE = {
                 "rotationEnabled": false,
                 "style": {
                     "padding": {
-                        "top": 80,
+                        "top": 32,
                         "left": 0,
-                        "bottom": 80,
+                        "bottom": 32,
                         "right": 0,
                         "enabled": false
                     }
@@ -11458,9 +11458,9 @@ window.WW_OBJECTS_STORE = {
                 "rotationEnabled": false,
                 "style": {
                     "padding": {
-                        "top": 56,
+                        "top": 32,
                         "left": 0,
-                        "bottom": 56,
+                        "bottom": 32,
                         "right": 0,
                         "enabled": true
                     }
@@ -12366,9 +12366,9 @@ window.WW_OBJECTS_STORE = {
                 "rotationEnabled": false,
                 "style": {
                     "padding": {
-                        "top": 56,
+                        "top": 32,
                         "left": 0,
-                        "bottom": 90,
+                        "bottom": 32,
                         "right": 0,
                         "enabled": true
                     }
@@ -12913,9 +12913,9 @@ window.WW_OBJECTS_STORE = {
                 "rotationEnabled": false,
                 "style": {
                     "padding": {
-                        "top": 104,
+                        "top": 32,
                         "left": 0,
-                        "bottom": 104,
+                        "bottom": 32,
                         "right": 0,
                         "enabled": true
                     }
@@ -12971,9 +12971,9 @@ window.WW_OBJECTS_STORE = {
                 "rotationEnabled": false,
                 "style": {
                     "padding": {
-                        "top": 80,
+                        "top": 32,
                         "left": 0,
-                        "bottom": 80,
+                        "bottom": 32,
                         "right": 0,
                         "enabled": true
                     }
@@ -13244,9 +13244,9 @@ window.WW_OBJECTS_STORE = {
                 "rotationEnabled": false,
                 "style": {
                     "padding": {
-                        "top": 56,
+                        "top": 32,
                         "left": 10,
-                        "bottom": 56,
+                        "bottom": 32,
                         "right": 10,
                         "enabled": true
                     }
