@@ -827,7 +827,7 @@ window.WW_OBJECTS_STORE = {
                     },
                     "height": {
                         "unit": "px",
-                        "value":250
+                        "value":180
                     }
                 },
                 "visibility": true,
@@ -848,7 +848,7 @@ window.WW_OBJECTS_STORE = {
                     },
                     "y": {
                         "unit": "px",
-                        "value": 312
+                        "value": 250
                     }
                 },
                 "additionalProperties": {
